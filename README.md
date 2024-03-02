@@ -1,1 +1,1 @@
-Hello World
+If you reading this, you have 10 mil seconds to live
